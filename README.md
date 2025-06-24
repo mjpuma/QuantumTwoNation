@@ -7,6 +7,17 @@
 
 A comprehensive framework for analyzing international trade policy dynamics using quantum mechanical models. This project implements 8 distinct quantum evolution models and provides rigorous validation against analytical solutions from quantum physics literature.
 
+## 📖 Academic Documentation
+
+For comprehensive mathematical foundations, complete derivations, and literature review, see:
+- **[Quantum Framework Validation Documentation](docs/Quantum_Framework_Validation.pdf)** - Complete academic paper with:
+  - Mathematical proofs of all validation tests
+  - Literature review from foundational quantum mechanics papers
+  - Economic interpretation guide for non-technical readers
+  - Detailed error analysis and precision methodology
+
+This PDF provides the rigorous academic backing for the practical framework described in this README.
+
 ## 🌟 Key Features
 
 - **8 Quantum Models**: Schrödinger, von Neumann, Lindblad, Floquet variants with enhanced differentiation
