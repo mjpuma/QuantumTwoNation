@@ -10,7 +10,7 @@ A comprehensive framework for analyzing international trade policy dynamics usin
 ## 📖 Academic Documentation
 
 For comprehensive mathematical foundations, complete derivations, and literature review, see:
-- **[Quantum Framework Validation Documentation](docs/Quantum_Framework_Validation.pdf)** - Complete academic paper with:
+- **[Quantum Framework Validation Documentation](docs/Quantum_UnitTest_Validation.pdf)** - Complete academic paper with:
   - Mathematical proofs of all validation tests
   - Literature review from foundational quantum mechanics papers
   - Economic interpretation guide for non-technical readers
